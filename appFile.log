@@ -1,0 +1,8 @@
+lis 12, 2018 10:16:21 AM training.core.logging.JavaLogger <init>
+INFO: I`m created
+lis 12, 2018 10:16:21 AM training.core.logging.JavaLogger writeDownInfo
+INFO: I like summer
+lis 12, 2018 10:16:21 AM training.core.logging.JavaLogger writeDownWarning
+WARNING: Permission danied
+lis 12, 2018 10:16:21 AM training.core.logging.JavaLogger writeDownError
+SEVERE: Shit happen

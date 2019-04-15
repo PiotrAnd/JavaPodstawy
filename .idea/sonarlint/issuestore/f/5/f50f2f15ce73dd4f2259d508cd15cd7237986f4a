@@ -1,0 +1,4 @@
+
+?squid:S1068"(Remove this unused "name" private field.(êÀ•º
+Usquid:UselessImportCheck"1Remove this unused import 'java.util.Comparator'.(ÓπÛπ
+gsquid:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ç‹—„

@@ -1,0 +1,27 @@
+
+O
+squid:S106D"9Replace this use of System.out or System.err by a logger.(·­É¯
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”¥³ˆ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªßÑÓüÿÿÿÿ
+]squid:S2142<"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+T
+squid:S106I"9Replace this use of System.out or System.err by a logger.(¾ÖÑôýÿÿÿÿ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(Çµí‘
+O
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ý¼øß
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÒÐ«äûÿÿÿÿ
+T
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+t
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(€ýÇþúÿÿÿÿ
+Asquid:S00108<")Either remove or fill this block of code.(ä ¹€
+Psquid:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(×«ÁÍ
+Tsquid:S1197"8Move the array designator from the variable to the type.(ÜÂà³ÿÿÿÿÿ
+O
+squid:S1069"9Replace this use of System.out or System.err by a logger.(þáˆŒ
+O
+squid:S106*"9Replace this use of System.out or System.err by a logger.(Ï½¾ð
+O
+squid:S106K"9Replace this use of System.out or System.err by a logger.(Øøã¡

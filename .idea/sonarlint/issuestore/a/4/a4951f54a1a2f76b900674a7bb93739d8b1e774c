@@ -1,0 +1,37 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(™¼åÃüÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(™¼åÃüÿÿÿÿ
+O
+squid:S1063"9Replace this use of System.out or System.err by a logger.(‡è¸–
+Fsquid:S1611"/Remove the parentheses around the "x" parameter(ó¢¦Ø
+}squid:S1192"aDefine a constant instead of duplicating this literal "********************************" 3 times.(™¼åÃüÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄŸ®Øøÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(™¼åÃüÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(£¸­‚üÿÿÿÿ
+T
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ßÖÈØşÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ùå¹Ã
+O
+squid:S106;"9Replace this use of System.out or System.err by a logger.(‡¼ã
+O
+squid:S106."9Replace this use of System.out or System.err by a logger.(À­¯
+Tsquid:S1197
+"8Move the array designator from the variable to the type.(ÜïÈûÿÿÿÿ
+T
+squid:S1061"9Replace this use of System.out or System.err by a logger.(ßÖÈØşÿÿÿÿ
+Xsquid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜
+O
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Ì†¨é
+T
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ßÖÈØşÿÿÿÿ
+Csquid:S1612A",Replace this lambda with a method reference.(«Ç«
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å–Ùúÿÿÿÿ
+O
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ÈÈ×Ó

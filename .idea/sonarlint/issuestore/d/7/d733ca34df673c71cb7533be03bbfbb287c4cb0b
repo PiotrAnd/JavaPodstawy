@@ -1,0 +1,16 @@
+
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø»‹úøÿÿÿÿ
+T
+squid:S106 "9Replace this use of System.out or System.err by a logger.(òþÚúøÿÿÿÿ
+Asquid:S1481	"*Remove this unused "volue" local variable.(’å¹à
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ø»‹úøÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àò©©ûÿÿÿÿ
+Hsquid:S1481",Remove this unused "pl_name" local variable.(àò©©ûÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(àò©©ûÿÿÿÿ
+bsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(äÐ¬
+Hsquid:S1481",Remove this unused "en_name" local variable.(Ø»‹úøÿÿÿÿ
+T
+squid:S106%"9Replace this use of System.out or System.err by a logger.(òþÚúøÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ŽÕ†

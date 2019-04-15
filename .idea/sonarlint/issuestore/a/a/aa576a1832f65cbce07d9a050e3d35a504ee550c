@@ -1,0 +1,14 @@
+
+^squid:UselessImportCheck"5Remove this unused import 'sun.security.util.Length'.(Ê³à£ùÿÿÿÿ
+T
+squid:S106	"9Replace this use of System.out or System.err by a logger.(ÌİÅõıÿÿÿÿ
+Qsquid:S1133"5Do not forget to remove this deprecated code someday.(§äâéûÿÿÿÿ
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ê³à£ùÿÿÿÿ
+^squid:CallToDeprecatedMethod&"1Remove this use of "converter"; it is deprecated.(í¢ÔÔüÿÿÿÿ
+^squid:CallToDeprecatedMethod%"1Remove this use of "converter"; it is deprecated.(Œ½§Æøÿÿÿÿ
+7squid:S2129" Remove this "String" constructor(°àÆĞ
+Usquid:MissingDeprecatedCheck"(Add the missing @deprecated Javadoc tag.(§äâéûÿÿÿÿ
+Ysquid:CallToDeprecatedMethod'"1Remove this use of "converter"; it is deprecated.(Éšë
+Ysquid:CallToDeprecatedMethod$"1Remove this use of "converter"; it is deprecated.(Ê¿ı™
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

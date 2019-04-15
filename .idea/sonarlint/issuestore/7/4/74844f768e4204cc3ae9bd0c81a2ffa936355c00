@@ -1,0 +1,6 @@
+
+‚"squid:ClassVariableVisibilityCheck"TMake power_HP a static final constant or non-public and provide accessors if needed.(ûøçÔ
+ksquid:S00116"SRename this field "power_HP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûøçÔ
+†"squid:ClassVariableVisibilityCheck"SMake gasType a static final constant or non-public and provide accessors if needed.(åòÃ¸þÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck"OMake rpm a static final constant or non-public and provide accessors if needed.(†ÙŒþüÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck"TMake capacity a static final constant or non-public and provide accessors if needed.(ÐË±Ìÿÿÿÿÿ

@@ -1,0 +1,25 @@
+
+T
+squid:S1065"9Replace this use of System.out or System.err by a logger.(Çú¢Îúÿÿÿÿ
+gsquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(ÿøÒŸûÿÿÿÿ
+€squid:S1192^"iDefine a constant instead of duplicating this literal "----------------------------------------" 3 times.(íê­…
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(„¼¡£ýÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+Csquid:S1068",Remove this unused "intRan2D" private field.(Î¬™›
+T
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+bsquid:UnusedPrivateMethod"8Remove this unused private "printMultiplication" method.(„þ±Šüÿÿÿÿ
+O
+squid:S106d"9Replace this use of System.out or System.err by a logger.(íê­…
+O
+squid:S1063"9Replace this use of System.out or System.err by a logger.(³Îé
+T
+squid:S106j"9Replace this use of System.out or System.err by a logger.(¬Û˜ßúÿÿÿÿ
+O
+squid:S106`"9Replace this use of System.out or System.err by a logger.(íê­…
+O
+squid:S106^"9Replace this use of System.out or System.err by a logger.(íê­…
+T
+squid:S106g"9Replace this use of System.out or System.err by a logger.(¬Û˜ßúÿÿÿÿ

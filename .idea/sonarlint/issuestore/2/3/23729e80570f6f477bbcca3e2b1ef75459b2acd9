@@ -1,0 +1,18 @@
+
+O
+squid:S106,"9Replace this use of System.out or System.err by a logger.(«’ÌÖ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(´¤Âúÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(İ§ˆ®ÿÿÿÿÿ
+Bsquid:S35993",Use another way to initialize this instance.(ú½â
+osquid:S11713"YMove the contents of this initializer to a standard constructor or to field initializers.(ú½â
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(›ÿ…™
+O
+squid:S106:"9Replace this use of System.out or System.err by a logger.(«’ÌÖ
+Xsquid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜
+O
+squid:S1060"9Replace this use of System.out or System.err by a logger.(¸•äÚ
+T
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ııÎÓùÿÿÿÿ

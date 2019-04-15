@@ -1,0 +1,26 @@
+
+T
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ÃŠ·Åûÿÿÿÿ
+jsquid:S2095$"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(÷ºÒ²üÿÿÿÿ
+T
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ãÌ¸·üÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(³óœ¬üÿÿÿÿ
+Ksquid:S28643"4Iterate over the "entrySet" instead of the "keySet".(ìšç
+nsquid:S1192"RDefine a constant instead of duplicating this literal "System properties" 3 times.(ú±Ôóúÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹°Õ¦
+csquid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(îÌœ€ûÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ú±Ôóúÿÿÿÿ
+T
+squid:S106 "9Replace this use of System.out or System.err by a logger.(²ÕÜ¥øÿÿÿÿ
+T
+squid:S106-"9Replace this use of System.out or System.err by a logger.(¿£ı»şÿÿÿÿ
+T
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ÆÀ ¡ıÿÿÿÿ
+bsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(¹Ôü‡
+T
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ÃˆŸùÿÿÿÿ

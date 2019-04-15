@@ -1,0 +1,17 @@
+
+Vsquid:UnusedPrivateMethod
+"1Remove this unused private "MyTools" constructor.(¨À·«
+Ksquid:EmptyStatementUsageCheck"Remove this empty statement.(ôŸìúÿÿÿÿ
+Ksquid:EmptyStatementUsageCheck "Remove this empty statement.(ôŸìúÿÿÿÿ
+Ksquid:EmptyStatementUsageCheck$"Remove this empty statement.(ôŸìúÿÿÿÿ
+Ksquid:EmptyStatementUsageCheck("Remove this empty statement.(ôŸìúÿÿÿÿ
+Usquid:S3400"9Remove this method and declare a constant for this value.(ìÚ™ÿùÿÿÿÿ
+Psquid:S3400"9Remove this method and declare a constant for this value.(”·³›
+Psquid:S3400"9Remove this method and declare a constant for this value.(”·³›
+Psquid:S3400#"9Remove this method and declare a constant for this value.(ª¸•¼
+Psquid:S3400'"9Remove this method and declare a constant for this value.(æÇ
+Hsquid:S1172",Remove this unused method parameter "sound".(ı¬‰Ùøÿÿÿÿ
+Hsquid:S1172",Remove this unused method parameter "sound".(Á´Ö®ùÿÿÿÿ
+Hsquid:S1172"",Remove this unused method parameter "sound".(ø‹å•ûÿÿÿÿ
+Hsquid:S1172%",Remove this unused method parameter "sound".(¶¡Çáüÿÿÿÿ
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(èïÂ

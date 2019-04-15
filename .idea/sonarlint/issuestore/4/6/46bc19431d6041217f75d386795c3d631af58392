@@ -1,0 +1,12 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(å£ úÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(„¾Ñ¹
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(’’´Ä
+T
+squid:S106	"9Replace this use of System.out or System.err by a logger.(ø‰ñâûÿÿÿÿ
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(’¢ê
+nsquid:S3973"WUse curly braces or indentation to denote the code conditionally executed by this "if".(ÎÂ•¶
+£squid:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(«ìïÍøÿÿÿÿ
